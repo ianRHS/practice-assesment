@@ -1,4 +1,39 @@
 nav {
     background-color: #007150;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
     
+
+}
+
+nav a:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+
+footer {
+    background-color: #11668D;
+    color: white;
+    text-align: center; 
+    line-height: 30px;
+    font-weight: bolder;
+    
+}
+
+body {
+    background-color: #F2EDEB;
+}
+
+
+h2 {
+    font-weight: bolder;
 }
